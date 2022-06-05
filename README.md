@@ -10,7 +10,7 @@ This purpose of this project was to visualize data from citibike in New York, to
 ### Resources
 **Data Source:** [Citi Bike Raw Data](/201908-citibike-tripdata.csv), [Citi Bike Converted Data](/bikeShare.csv)
 <br>
-**Analysis Output:** [Bikesharing Visualizaitons](https://public.tableau.com/app/profile/kaitlyn.hopkins/viz/BikeShare_Challenge_16544593283700/BikeShareAnalysis)
+**Analysis Output:** [Bikesharing Tableau Visualizaitons](https://public.tableau.com/app/profile/kaitlyn.hopkins/viz/BikeShare_Challenge_16544593283700/BikeShareAnalysis)
 <br>
 **Tools:** Tableau, Python, Jupyter Notebook, Pandas
 
